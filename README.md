@@ -8,7 +8,7 @@
 <img width="512" height="512" alt="1000020834" src="https://github.com/user-attachments/assets/ebd13e7a-d420-4fdf-a846-d400eb916b5d" />
 # Giving-Threat-Hunting-A-cinematic-flair-I-hate-how-bland-dashboards-are
 
-creating a more visually appealing and effective SOC dashboard, here are three "storyboard" frames that illustrate the concept, from a calm state to a critical incident.
+creating a more visually appealing and effective SOC dashboard, here are some "storyboard" frames that illustrate the concept, from a calm state to a critical incident.
 
 **Frame 1: The Calm Before the Storm**
 
